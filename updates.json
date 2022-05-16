@@ -2,7 +2,7 @@
     "updates": {
       "windows": {
         "open-url": "",
-        "latest-version": "0.0.1",
+        "latest-version": "0.0.2",
         "download-url": "https://raw.githubusercontent.com/HZRelaper/GatewayTool/main/GatewayTool.zip",
         "changelog": "睿珀网关配置工具的初始版本",
         "mandatory": true
